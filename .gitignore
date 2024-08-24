@@ -1,0 +1,5 @@
+.vscode/
+.git/
+.env
+.htaccess
+wp-content/cache/
